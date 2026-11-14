@@ -1,0 +1,1 @@
+# ARTI401-Lab10-Prolog-Operators-II
